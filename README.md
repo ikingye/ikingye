@@ -3,6 +3,5 @@
 ### Hi there 👋
 
 - I’m currently living in ShenZhen, China
-- I’m currently working on Baidu
+- I’m currently working on [Baidu](https://talent.baidu.com)
 - My blog: https://kingye.me
-- My note: https://kingye.me/note
