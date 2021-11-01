@@ -5,5 +5,3 @@
 - I’m currently living in ShenZhen, China
 - I’m currently working at [Baidu](https://talent.baidu.com)
 - You can visit [my blog](https://kingye.me) for more information about me
-
-[![](https://wakatime.com/share/@ikingye/2ec0e679-69c4-4863-a5e6-2cbc9969d214.svg)](https://wakatime.com/share/@ikingye/2ec0e679-69c4-4863-a5e6-2cbc9969d214.svg)
